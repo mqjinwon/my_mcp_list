@@ -1,0 +1,12 @@
+[submodule "magic-mcp"]
+	path = magic-mcp
+	url = https://github.com/21st-dev/magic-mcp
+[submodule "markdownify-mcp"]
+	path = markdownify-mcp
+	url = https://github.com/zcaceres/markdownify-mcp
+[submodule "context7"]
+	path = context7
+	url = https://github.com/upstash/context7.git
+[submodule "notion-mcp-server"]
+	path = notion-mcp-server
+	url = https://github.com/makenotion/notion-mcp-server.git
